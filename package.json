@@ -1,0 +1,19 @@
+{
+  "name": "library",
+  "version": "0.0.0",
+  "description": "Library of React components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/instructure-react/library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/instructure-react/library/issues"
+  },
+  "homepage": "https://github.com/instructure-react/library"
+}

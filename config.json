@@ -1,0 +1,8 @@
+{
+  "repositories": [
+    "rackt/react-modal",
+    "instructure-react/react-menu",
+    "instructure-react/react-tokeninput",
+    "instructure-react/react-select-box"
+  ]
+}
