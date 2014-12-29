@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/instructure-react/library/issues"
   },
-  "homepage": "https://github.com/instructure-react/library"
+  "homepage": "https://github.com/instructure-react/library",
+  "dependencies": {
+    "gh-pages-site": "0.0.3"
+  }
 }
