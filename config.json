@@ -4,6 +4,6 @@
     "instructure-react/react-menu",
     "instructure-react/react-tokeninput",
     "instructure-react/react-select-box",
-    "instructure-react/react-tray-example"
+    "instructure-react/react-tray"
   ]
 }
